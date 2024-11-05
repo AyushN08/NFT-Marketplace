@@ -24,7 +24,7 @@ This project is a decentralized NFT (Non-Fungible Token) marketplace built using
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/AyushN08/nft-marketplace.git
+   git clone https://github.com/AyushN08/NFT-Marketplace.git
    cd nft-marketplace
 
 2. Install dependencies:
